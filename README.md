@@ -38,31 +38,36 @@ Kubernetes · CI/CD · Automação de infraestrutura
 
 > Os principais estão fixados no topo do perfil. Cada repositório tem um README com o que faz, como rodar e o que aprendi.
 
-- **[nome-do-repositorio](https://github.com/nicolejsdev/nome-do-repositorio)**: [PREENCHER: o que faz, em uma ou duas frases] · `Linux` `Bash`
-- **[nome-do-repositorio](https://github.com/nicolejsdev/nome-do-repositorio)**: [PREENCHER] · `Redes`
-- **[portfolio](https://github.com/nicolejsdev/portfolio)**: meu site pessoal, publicado com GitHub Pages · `HTML` `CSS` `JavaScript`
+- **[HydraPing](https://github.com/nicolejsdev/docker-labs/tree/main/09-hydraping)**: [Lembrete de Hidratação] · `Linux` `Bash`
+- **[Rústicos Diniz](https://github.com/nicolejsdev/Rusticos-Diniz)**: [Site para uma Marcenaria Familiar] · `Redes`
+
 
 ## Experiência
 
-- **Suporte técnico, telecomunicações** · [PREENCHER: empresa e período]
-  [PREENCHER: o que você fazia, com foco em resolução de problemas, atendimento técnico, ferramentas usadas]
+- **Vero** · Telecomunicações · fev. 2024 a jun. 2026 (2 anos e 4 meses)
+  - **Atendente de Serviço B2B** (abr. 2026 a jun. 2026, remoto)
+  - **Atendente de Suporte ao Cliente** (nov. 2024 a abr. 2026, remoto)
+  - **Atendente de Serviço Técnico** (fev. 2024 a nov. 2024, presencial)
 
+  Suporte técnico e atendimento em telecomunicações, com evolução de funções no período, passando do atendimento presencial para o remoto e para o atendimento a clientes empresariais (B2B). Rotina de diagnóstico de problemas e comunicação com o cliente.
+  
 ## Formação
 
-- **Engenharia de Software** · [PREENCHER: instituição] (em andamento)
-- **Inglês** · UPTIME, comunicação em inglês
+- **Engenharia de Software** · Gran Faculdade (em andamento)
 
 ## Certificados
 
 | Certificado | Instituição | Ano |
 | --- | --- | --- |
+| Docker Essentials | LINUXtips | 2026
 | Linux Fundamentos | FIAP | 2026 |
 | DevOps & Agile Culture | FIAP | 2026 |
 | DevOps Essentials | 4Linux | 2026 |
 | AWS Technical Essentials (Português) | Amazon Web Services | 2025 |
 | DevOps: conceitos, comandos e scripts no Linux CLI | Alura | 2025 |
 | JavaScript: Fundamentos para Desenvolvimento Web Interativo | IFRS | 2025 |
+| Inglês | UPTIME | 2021
 
 ## Contato
 
-Quer conversar sobre uma oportunidade? Use o [formulário de proposta no portfólio](https://nicolejsdev.github.io/portfolio#proposta) ou me chame no [LinkedIn](https://www.linkedin.com/in/nicole-chagas-a30a08259).
+Quer conversar sobre uma oportunidade? Me chame no email: nicole.jsdev@gmail.com ou no [LinkedIn](https://www.linkedin.com/in/nicole-chagas-a30a08259).
