@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nicolejsdev.github.io/portfolio"><img src="https://img.shields.io/badge/Portf%C3%B3lio-BFDFFF?style=for-the-badge&logoColor=1E3A5F" alt="Portfólio"></a>
+  <a href="https://nicolejsdev.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-BFDFFF?style=for-the-badge&logoColor=1E3A5F" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/nicole-chagas-a30a08259"><img src="https://img.shields.io/badge/LinkedIn-BFDFFF?style=for-the-badge&logo=linkedin&logoColor=1E3A5F" alt="LinkedIn"></a>
 </p>
 
